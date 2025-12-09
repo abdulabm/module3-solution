@@ -1,1 +1,15 @@
+.tall-section {
+  background-color: #e6e6e6;  /* light grey background */
+  height: 1000px;             /* makes it tall for scrolling */
+  padding: 20px;
+  font-size: 18px;
+}
+
+/* Center text inside mobile dropdown */
+.navbar-nav > li > a {
+  font-size: 18px;
+  padding: 15px;
+  background-color: #f8f8f8; /* light background */
+  border-bottom: 1px solid #ddd;
+}
 
