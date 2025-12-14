@@ -1,15 +1,10 @@
-.tall-section {
-  background-color: #e6e6e6; 
-  height: 1000px;             
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Tall section for scrolling */
+.menu-section {
+  background-color: #f2f2f2;
   padding: 20px;
-  font-size: 18px;
+  height: 1000px;
 }
-
-
-.navbar-nav > li > a {
-  font-size: 18px;
-  padding: 15px;
-  background-color: #f8f8f8; 
-  border-bottom: 1px solid #ddd;
-}
-
